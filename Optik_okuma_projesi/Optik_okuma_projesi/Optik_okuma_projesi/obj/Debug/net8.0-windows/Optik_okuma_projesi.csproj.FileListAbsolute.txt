@@ -1,0 +1,172 @@
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Optik_okuma_projesi.exe
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Optik_okuma_projesi.deps.json
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Optik_okuma_projesi.runtimeconfig.json
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Optik_okuma_projesi.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Optik_okuma_projesi.pdb
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.Form1.resources
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.csproj.GenerateResource.cache
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.AssemblyInfoInputs.cache
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.AssemblyInfo.cs
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.csproj.CoreCompileInputs.cache
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\refint\Optik_okuma_projesi.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.pdb
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.genruntimeconfig.cache
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\ref\Optik_okuma_projesi.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.csproj.AssemblyReference.cache
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_ok.D5ECA9D7.Up2Date
+D:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Optik_okuma_projesi.exe
+D:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Optik_okuma_projesi.deps.json
+D:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Optik_okuma_projesi.runtimeconfig.json
+D:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Optik_okuma_projesi.dll
+D:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Optik_okuma_projesi.pdb
+D:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Excel.dll
+D:\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.csproj.AssemblyReference.cache
+D:\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.Form1.resources
+D:\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.csproj.GenerateResource.cache
+D:\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.AssemblyInfoInputs.cache
+D:\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.AssemblyInfo.cs
+D:\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.csproj.CoreCompileInputs.cache
+D:\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_ok.D5ECA9D7.Up2Date
+D:\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.dll
+D:\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\refint\Optik_okuma_projesi.dll
+D:\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.pdb
+D:\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.genruntimeconfig.cache
+D:\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\ref\Optik_okuma_projesi.dll
+D:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\EPPlus.dll
+D:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+D:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+D:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Optik_okuma_projesi.exe
+E:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Optik_okuma_projesi.deps.json
+E:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Optik_okuma_projesi.runtimeconfig.json
+E:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Optik_okuma_projesi.dll
+E:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Optik_okuma_projesi.pdb
+E:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\EPPlus.dll
+E:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+E:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+E:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+E:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Excel.dll
+E:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.csproj.AssemblyReference.cache
+E:\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.Form1.resources
+E:\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.csproj.GenerateResource.cache
+E:\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.AssemblyInfoInputs.cache
+E:\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.AssemblyInfo.cs
+E:\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.csproj.CoreCompileInputs.cache
+E:\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_ok.D5ECA9D7.Up2Date
+E:\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.dll
+E:\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\refint\Optik_okuma_projesi.dll
+E:\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.pdb
+E:\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.genruntimeconfig.cache
+E:\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\ref\Optik_okuma_projesi.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Optik_okuma_projesi.exe
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Optik_okuma_projesi.deps.json
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Optik_okuma_projesi.runtimeconfig.json
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Optik_okuma_projesi.dll
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Optik_okuma_projesi.pdb
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.csproj.AssemblyReference.cache
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.Form1.resources
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.csproj.GenerateResource.cache
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.AssemblyInfoInputs.cache
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.AssemblyInfo.cs
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.csproj.CoreCompileInputs.cache
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_ok.D5ECA9D7.Up2Date
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.dll
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\refint\Optik_okuma_projesi.dll
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.pdb
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.genruntimeconfig.cache
+C:\Monster Flash\Not\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\ref\Optik_okuma_projesi.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Optik_okuma_projesi.exe
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Optik_okuma_projesi.deps.json
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Optik_okuma_projesi.runtimeconfig.json
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Optik_okuma_projesi.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Optik_okuma_projesi.pdb
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.csproj.AssemblyReference.cache
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.Form1.resources
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.csproj.GenerateResource.cache
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.AssemblyInfoInputs.cache
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.AssemblyInfo.cs
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.csproj.CoreCompileInputs.cache
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_ok.D5ECA9D7.Up2Date
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\refint\Optik_okuma_projesi.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.pdb
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.genruntimeconfig.cache
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\ref\Optik_okuma_projesi.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\obj\Debug\net8.0-windows\Optik_okuma_projesi.Form2.resources
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\bzhyk\source\repos\Optik_okuma_projesi\Optik_okuma_projesi\Optik_okuma_projesi\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
